@@ -1,16 +1,49 @@
-# flutter_item
+# BigBuy [Wholesaler App]
 
-A new Flutter project.
+**BigBuy [Wholesaler App]** is a Flutter-based mobile application designed for wholesale businesses. It allows users to manage product rates, apply slab-based pricing, perform barcode scanning, and implement advanced search and filtering functionalities. The app uses PHP and MySQL for backend services and data management.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 **Features**
+✅ **User Authentication**  
+- Secure login using session-based authentication (PHP + MySQL).  
+- User-specific data filtering based on login session.  
 
-A few resources to get you started if this is your first Flutter project:
+✅ **Product Management**  
+- Display product rate lists.  
+- Slab-based pricing based on quantity and type.  
+- Barcode scanning for quick product lookup.  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+✅ **Search and Filtering**  
+- Dynamic search with real-time suggestions.  
+- Advanced filtering based on category, price, and availability.  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+.  
+
+✅ **Performance Optimization**  
+- Efficient data handling using REST API (PHP + MySQL).  
+- State management using `Provider` for smooth UI updates.  
+
+---
+
+## 🛠️ **Tech Stack**
+| Technology | Description |
+|------------|-------------|
+| **Flutter** | Frontend framework |
+| **PHP** | Backend development |
+| **MySQL** | Database management |
+| **REST API** | Data communication |
+| **Provider** | State management |
+
+---
+
+## 🌟 **Setup Instructions**
+### 1. **Clone the Repository**
+```bash
+git clone https://github.com/your-username/BigBuy [Wholesaler App].git
+cd
+
+## flutter pub get
+
+## flutter run
+## flutter build apk
